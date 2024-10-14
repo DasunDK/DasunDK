@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21434
-Fork on GitHub6741
 <h1 align="center">Hi 👋, I'm Dasun Kumara</h1>
 <h3 align="center">A passionate software engineer form sri lanka</h3>
 
