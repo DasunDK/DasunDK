@@ -32,7 +32,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/dasunudaya2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/dasunudaya2" /></a></p><br>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/dasunudaya2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/dasunudaya2" /></a></p><br><br><br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasundk&show_icons=true&locale=en&layout=compact" alt="dasundk" />
 
