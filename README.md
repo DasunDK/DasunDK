@@ -35,5 +35,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasundk&show_icons=true&locale=en&layout=compact" alt="dasundk" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasundk&show_icons=true&locale=en" alt="dasundk" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dasundk&show_icons=true&locale=en" alt="dasundk" />
 
